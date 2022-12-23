@@ -1,0 +1,54 @@
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Edit_Class.resources
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Add_Class.resources
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStudent.resources
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Add_Student.resources
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Edit_Student.resources
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\bin\Debug\Database2.mdf
+C:\Users\DELL\OneDrive\Documents\C#\GUI4\WindowsFormsApp1\bin\Debug\Database2_log.ldf
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\bin\Debug\Database2.mdf
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\bin\Debug\Database2_log.ldf
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStudent.resources
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Add_Class.resources
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Add_Student.resources
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Edit_Class.resources
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Edit_Student.resources
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Bài làm các môn\Lập trình trực quan\Lớp lí thuyết\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\bin\Debug\Database2.mdf
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\bin\Debug\Database2_log.ldf
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStudent.resources
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Add_Class.resources
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Add_Student.resources
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Edit_Class.resources
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Edit_Student.resources
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Downloads\GUI4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

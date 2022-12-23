@@ -1,0 +1,32 @@
+﻿create database QuanLyLopHoc
+use QuanLyLopHoc
+
+
+create table LOP
+(
+ MALOP VARCHAR(5) not null,
+ TEN NVARCHAR(40),
+ SISO INT,
+CONSTRAINT PK_MALOP PRIMARY KEY (MALOP),
+constraint FK_MASV FOREIGN KEY (MALOP) REFERENCES LOP(MALOP)
+)
+
+
+CREATE TABLE SINHVIEN
+(
+MASV VARCHAR(5) not null ,
+ TEN NVARCHAR(40),
+ malop VARCHAR(5) not null,
+ DTB FLOAT,
+ CONSTRAINT PK_MASV PRIMARY KEY (MASV),
+CONSTRAINT FK_MALOP  FOREIGN KEY (MALOP) REFERENCES  LOP(MALOP),
+)
+
+insert INTO  LOP(MALOP,TEN,SISO) VALUES ('A2',N'Văn',34)
+
+insert INTO  SINHVIEN(MASV,TEN,malop,dtb) VALUES ('B1',N'Quyến','A2',9.9)
+insert INTO  SINHVIEN(MASV,TEN,malop,dtb) VALUES ('B2',N'Quyến','A2',9.9)
+insert INTO  SINHVIEN(MASV,TEN,malop,dtb) VALUES ('B3',N'Quyến','A2',9.9)
+
+
+
